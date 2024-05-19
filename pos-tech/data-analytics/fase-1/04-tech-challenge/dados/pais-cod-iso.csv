@@ -1,7 +1,7 @@
 pais,cod_iso
 Afeganistão,AF
 África do Sul,ZA
-Alemanha, República Democrática,DE
+"Alemanha, República Democrática",DE
 Angola,AO
 Anguilla,AI
 Antígua e Barbuda,AG
@@ -27,16 +27,16 @@ Cabo Verde,CV
 Camarões,CM
 Canadá,CA
 Catar,QA
-Cayman, Ilhas,KY
+"Cayman, Ilhas",KY
 Chile,CL
 China,CN
 Chipre,CY
 Cingapura,SG
-Cocos (Keeling), Ilhas,CC
+"Cocos (Keeling), Ilhas",CC
 Colômbia,CO
 Comores,KM
 Congo,CG
-Coreia, Republica Sul,KR
+"Coreia, Republica Sul",KR
 Costa do Marfim,CI
 Costa Rica,CR
 Croácia,HR
@@ -47,7 +47,7 @@ Dominica,DM
 El Salvador,SV
 Emirados Arabes Unidos,AE
 Equador,EC
-Eslovaca, Republica,SK
+"Eslovaca, Republica",SK
 Espanha,ES
 Estados Unidos,US
 Estônia,EE
@@ -86,7 +86,7 @@ Macau,MO
 Malásia,MY
 Malavi,MW
 Malta,MT
-Marshall, Ilhas,MH
+"Marshall, Ilhas",MH
 Martinica,MQ
 Mauritânia,MR
 México,MX
@@ -125,7 +125,7 @@ Suriname,SR
 Tailândia,TH
 Taiwan (Formosa),TW
 Tanzânia,TZ
-Tcheca, República,CZ
+"Tcheca, República",CZ
 Togo,TG
 Toquelau,TK
 Trinidade Tobago,TT
