@@ -1,39 +1,39 @@
 pais,qtd_litros,vlr_usd,ano
 Afeganistão,,,2013
 África do Sul,,,2013
-"Alemanha, República Democrática",225086,393482,2013
-Angola,54786,84235,2013
+"Alemanha, República Democrática",61699,265978,2013
+Angola,1573,9300,2013
 Anguilla,,,2013
 Antígua e Barbuda,,,2013
-Antilhas Holandesas,8235,10651,2013
+Antilhas Holandesas,11281,19565,2013
 Arábia Saudita,,,2013
-Argentina,162,4523,2013
+Argentina,,,2013
 Aruba,,,2013
-Austrália,1014,9195,2013
+Austrália,16707,101715,2013
 Áustria,,,2013
-Bahamas,,,2013
+Bahamas,581,5145,2013
 Bangladesh,,,2013
 Barbados,,,2013
 Barein,,,2013
-Bélgica,125962,58764,2013
+Bélgica,22461,95893,2013
 Belice,,,2013
 Benin,,,2013
 Bermudas,,,2013
-Bolívia,40463,20729,2013
+Bolívia,19147,25998,2013
 Bósnia-Herzegovina,,,2013
 Brasil,,,2013
 Bulgária,,,2013
 Cabo Verde,,,2013
 Camarões,,,2013
-Canadá,15664,73445,2013
+Canadá,25329,174643,2013
 Catar,,,2013
 "Cayman, Ilhas",,,2013
-Chile,1475,4297,2013
-China,1553416,482400,2013
+Chile,,,2013
+China,40929,279956,2013
 Chipre,,,2013
-Cingapura,2419,6110,2013
+Cingapura,766,5779,2013
 "Cocos (Keeling), Ilhas",,,2013
-Colômbia,,,2013
+Colômbia,8,30,2013
 Comores,,,2013
 Congo,,,2013
 "Coreia, Republica Sul",,,2013
@@ -42,30 +42,30 @@ Costa Rica,,,2013
 Croácia,,,2013
 Cuba,,,2013
 Curaçao,,,2013
-Dinamarca,1980,21780,2013
+Dinamarca,17892,101915,2013
 Dominica,,,2013
-El Salvador,55,100,2013
-Emirados Arabes Unidos,1398,4032,2013
+El Salvador,,,2013
+Emirados Arabes Unidos,,,2013
 Equador,,,2013
 "Eslovaca, Republica",,,2013
-Espanha,2181,4050,2013
-Estados Unidos,372319,660066,2013
-Estônia,5438,10802,2013
+Espanha,1972980,3748940,2013
+Estados Unidos,245368,786556,2013
+Estônia,,,2013
 Filipinas,,,2013
-Finlândia,,,2013
-França,,,2013
+Finlândia,36682,283114,2013
+França,6885,42256,2013
 Gana,,,2013
 Gibraltar,,,2013
 Granada,,,2013
 Grécia,,,2013
-Guatemala,20,20,2013
+Guatemala,,,2013
 Guiana,,,2013
 Guiana Francesa,,,2013
 Guine Bissau,,,2013
-Guine Equatorial,169,272,2013
-Haiti,4500,5863,2013
-Honduras,14,30,2013
-Hong Kong,50319,27188,2013
+Guine Equatorial,1108,5336,2013
+Haiti,,,2013
+Honduras,,,2013
+Hong Kong,16013,61224,2013
 Hungria,,,2013
 Ilha de Man,,,2013
 Ilhas Virgens,,,2013
@@ -74,14 +74,14 @@ Indonésia,,,2013
 Irã,,,2013
 Iraque,,,2013
 Irlanda,,,2013
-Itália,1817,5251,2013
+Itália,1710,11967,2013
 Jamaica,,,2013
-Japão,217974,283436,2013
+Japão,91988,429088,2013
 Jordânia,,,2013
 Letônia,,,2013
 Líbano,,,2013
 Libéria,,,2013
-Luxemburgo,7845,42124,2013
+Luxemburgo,5135,29474,2013
 Macau,,,2013
 Malásia,,,2013
 Malavi,,,2013
@@ -93,25 +93,25 @@ México,,,2013
 Moçambique,,,2013
 Montenegro,,,2013
 Namíbia,,,2013
-Nicarágua,24,24,2013
-Nigéria,41,115,2013
-Noruega,,,2013
+Nicarágua,,,2013
+Nigéria,1350,2245,2013
+Noruega,2375,19008,2013
 Nova Caledônia,,,2013
-Nova Zelândia,,,2013
+Nova Zelândia,1004,4092,2013
 Omã,,,2013
-Países Baixos,171654,136991,2013
+Países Baixos,57792,255690,2013
 Palau,,,2013
-Panamá,24,30,2013
-Paraguai,486927,392087,2013
+Panamá,,,2013
+Paraguai,481564,680828,2013
 Peru,,,2013
 Pitcairn,,,2013
-Polônia,6982,35797,2013
+Polônia,19249,90960,2013
 Porto Rico,,,2013
-Portugal,141000,168923,2013
-Quênia,,,2013
-Reino Unido,30092,68788,2013
+Portugal,23810,17627,2013
+Quênia,6,4,2013
+Reino Unido,59161,305005,2013
 República Dominicana,,,2013
-Rússia,21912914,5732280,2013
+Rússia,5893291,14795694,2013
 São Cristóvão e Névis,,,2013
 São Tomé e Príncipe,,,2013
 São Vicente e Granadinas,,,2013
@@ -119,20 +119,20 @@ Senegal,,,2013
 Serra Leoa,,,2013
 Singapura,,,2013
 Suazilândia,,,2013
-Suécia,28334,52826,2013
-Suíça,27653,81319,2013
-Suriname,3830,12918,2013
+Suécia,3195,20183,2013
+Suíça,2997,29785,2013
+Suriname,1800,2960,2013
 Tailândia,,,2013
 Taiwan (Formosa),,,2013
 Tanzânia,,,2013
-"Tcheca, República",9269,43902,2013
+"Tcheca, República",3697,23549,2013
 Togo,,,2013
 Toquelau,,,2013
 Trinidade Tobago,,,2013
 Tunísia,,,2013
 Turquia,,,2013
 Tuvalu,,,2013
-Uruguai,,,2013
+Uruguai,1526,13343,2013
 Vanuatu,,,2013
 Venezuela,,,2013
-Vietnã,743,2143,2013
+Vietnã,,,2013
